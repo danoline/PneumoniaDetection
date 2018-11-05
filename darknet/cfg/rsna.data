@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/caro/Documents/Travail/Phelma/3A/deep_learning/project/RSNA3/darknet/metadata/tr_list.txt
+valid  = /home/caro/Documents/Travail/Phelma/3A/deep_learning/project/RSNA3/darknet/metadata/val_list.txt
+names  = /home/caro/Documents/Travail/Phelma/3A/deep_learning/project/RSNA3/darknet/cfg/rsna.names
+backup = /home/caro/Documents/Travail/Phelma/3A/deep_learning/project/RSNA3/darknet/backup
+    
